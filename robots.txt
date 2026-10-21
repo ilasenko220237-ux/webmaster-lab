@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+
+Sitemap: https://ilasenko220237-ux.github.io/webmaster-lab/sitemap.xml
